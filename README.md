@@ -1,10 +1,8 @@
 # IEDC - IEI Placement Prep Program
 
-```
-
-This Repo is a Fork of [Coding Interview School](https://github.com/jwasham/coding-interview-university) and forked for this event
-
-```
+>
+>This Repo is a Fork of [Coding Interview School](https://github.com/jwasham/coding-interview-university) and forked for this event
+>
 
 >
 > The items listed here will prepare you well for a technical interview at just about any software company,
