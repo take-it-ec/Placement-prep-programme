@@ -8,6 +8,17 @@
 
 ---
 
+# GUIDE
+
+- [Prerequiste](programming-language-resources.md)
+- Motivation - Read this file
+
+- [Level 1](1.md)
+- [Level 2](2.md)
+- [Level 3](3.md)
+- [Practice and Interview Prep](suffix.md)
+- [Additionals](externals.md)
+
 
 
 ---
