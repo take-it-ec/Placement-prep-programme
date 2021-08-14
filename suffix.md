@@ -1,3 +1,14 @@
+- [Final Review](#final-review)
+- [Coding Question Practice](#coding-question-practice)
+- [Coding exercises/challenges](#coding-exerciseschallenges)
+- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
+- [Best way to Find perfect Career Opportunities for you](#best-way-to-find-perfect-career-opportunities-for-you)
+- [Your Resume](#your-resume)
+- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+- [Have questions for the interviewer](#have-questions-for-the-interviewer)
+- [Once You've Got The Job](#once-youve-got-the-job)
+
+
 ## Final Review
 
     This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.

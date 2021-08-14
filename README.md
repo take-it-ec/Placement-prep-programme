@@ -23,6 +23,15 @@
 
 ---
 
+
+- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
+- [Book List](#book-list)
+- [Before you Get Started](#before-you-get-started)
+- [What you Won't See Covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
+
+
 ## Interview Process & General Interview Prep
 
 - [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
