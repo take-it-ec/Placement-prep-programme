@@ -1,4 +1,4 @@
-# IEDC - IEI Placement Prep Program
+# TinkerHub - Placement Training
 
 >
 >This Repo is a Fork of [Coding Interview School](https://github.com/jwasham/coding-interview-university) and forked for this event
